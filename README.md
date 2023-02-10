@@ -1,4 +1,3 @@
-# git-assignment
 #!/bin/bash
 
 Using the touch command to creat an empty file
