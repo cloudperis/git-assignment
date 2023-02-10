@@ -1,4 +1,3 @@
-# git-assignment
 #!/bin/bash
 
 Using the touch command to creat an empty file
@@ -6,7 +5,7 @@ Using the touch command to creat an empty file
 touch File-cosmas.txt
 
 
-#Echo command to add content in the new file
+#Echo command to add content in the new file 
 echo "Cosmas Cloudperis Student" >File-cosmas.txt
 echo "cosmas is a DevOps Engineer" >>File-cosmas.txt
 
